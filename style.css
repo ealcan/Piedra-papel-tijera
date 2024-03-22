@@ -1,0 +1,36 @@
+div{
+    display: inline-block;
+    text-align: center;
+}
+#div1{
+    width: 270px;
+    height: 700px;
+    margin-right: 100px;
+    border: solid 2px;
+}
+#div2{
+    text-align: center;
+    width: 115px;
+    height: 100px;
+    position: absolute;
+}
+button{
+    margin-top: 20px;
+}
+#resultado, #resultado1, #resultado2{
+    margin-bottom: 20px;
+}
+#resultado{
+    margin-top: 30px;
+}
+#resultado3{
+    margin-bottom: 200px;
+}
+#start{
+    margin-top: 20px;
+    font-size: 30px;
+}
+#ganador{
+    font-size: 30px;
+    text-align: center;
+}
